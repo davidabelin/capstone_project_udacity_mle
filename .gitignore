@@ -2,3 +2,27 @@
 archive.zip
 archive.zip
 bad_project.zip
+eval results/results_9_by_models.png
+eval results/results_9.png
+eval results/results_9.csv
+eval results/results_8.png
+eval results/results_8.csv
+eval results/results_7.csv
+eval results/results_6.csv
+eval results/results_5.csv
+eval results/results_4.csv
+eval results/results_3.csv
+eval results/results_2.csv
+eval results/results_12_by_models.png
+eval results/results_12.png
+eval results/results_12.csv
+eval results/results_11_by_models.png
+eval results/results_11.png
+eval results/results_11.csv
+eval results/results_10.png
+eval results/results_10.csv
+eval results/results_1.csv
+digits_project_v1.ipynb
+digits_project_v2.ipynb
+digits_project_v3.ipynb
+digits_project_v4.ipynb
