@@ -1,0 +1,21 @@
+index	model	trained_on	no	low	high	var
+11	CNN	High noise	0.0132	0.0123	0.0143	0.0118
+10	miniNN	High noise	0.6727	0.6928	0.6339	0.6747
+12	DNN	High noise	0.0124	0.0123	0.0143	0.0119
+14	ocNN	High noise	0.9043	0.9123	0.8874	0.9108
+13	comboNN	High noise	0.6472	0.6656	0.6231	0.6559
+8	comboNN	Low noise	0.9557	0.9515	0.7629	0.9331
+6	CNN	Low noise	0.9406	0.9449	0.6656	0.9147
+9	ocNN	Low noise	0.9684	0.9669	0.1832	0.9061
+7	DNN	Low noise	0.6531	0.6838	0.2986	0.6086
+5	miniNN	Low noise	0.7484	0.7915	0.2717	0.6697
+4	ocNN	No noise	0.9673	0.902	0.0403	0.6119
+0	miniNN	No noise	0.8186	0.1928	0.0114	0.1828
+1	CNN	No noise	0.9516	0.8864	0.15	0.6847
+3	comboNN	No noise	0.9634	0.9438	0.3859	0.8552
+2	DNN	No noise	0.9257	0.2157	0.0305	0.2225
+17	DNN	Variable noise	0.7726	0.7633	0.6093	0.7291
+15	miniNN	Variable noise	0.8053	0.792	0.5999	0.7537
+16	CNN	Variable noise	0.9447	0.9489	0.8702	0.9429
+18	comboNN	Variable noise	0.9561	0.9513	0.8669	0.9472
+19	ocNN	Variable noise	0.9631	0.9612	0.8886	0.955
