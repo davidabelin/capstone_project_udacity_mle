@@ -1,4 +1,5 @@
 MLE Capstone Project README
+Also available as a GitHub repository at https://github.com/davidabelin/capstone_project_udacity_mle/tree/main/project
 
 In this compressed folder should be four files and two directories.
 
